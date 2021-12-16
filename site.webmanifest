@@ -1,0 +1,23 @@
+   {
+    "name": Ven a la cocina",
+    "short_name": "Venalacocina",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhuY3yPw6ylo75LeR8nWMHJ21aKdUzIYeowfxAdI8a4C43tvZCwMA3Dakvw_0xbAbmEpq01vehqoI8DmY8VdqaR8vb_F2Kl23Q2nCA6cTzy5hJKaT-_DER3tkiX0JesrtgSGeycyGrGBjHghuXsUjqAUSP7nCeBQvw0PAqWFektj4XbXA5vvCzl8x2L=s192",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhVHLZUjn-GXnHilLIVyNAoIoEPMCPkcKz1C2X9gjmFjUHs8EU91jaBIalG2l7YMXCqNVIQpcSTuymDRbcessoOYjIvthBLg5brNeQGDr0_SoEkUbt5ycZREZSC0ZVyl6aMRSmNVcjj8SAaykcCHi2BlChFmPhUhnG_0aPesHbhKXFQLRaefqk44kpk=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#da4c4f",
+    "background_color": "#ffffff00",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.venalacocina.com"
+}
